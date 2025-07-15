@@ -1,0 +1,6 @@
+venv/
+.env/
+env/
+.venv/
+.venvpractic/
+my_models/
